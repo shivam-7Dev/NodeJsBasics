@@ -1,0 +1,11 @@
+{
+  "name": "nodejsbasics",
+  "version": "1.0.0",
+  "description": "This repo contains the basics of nodeJS",
+  "main": "index.js",
+  "scripts": {
+    "test": "''"
+  },
+  "author": "",
+  "license": "ISC"
+}
